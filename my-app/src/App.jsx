@@ -11,6 +11,9 @@ function App() {
           <div className="cover-photo"></div>
           <div className="display-photo">photo</div>
           <div className="card-content">Waqar Muhammad</div>
+          <div className="pronoun">
+            <p>He/Him</p>
+          </div>
         </div>
       </header>
     </div>
